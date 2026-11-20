@@ -1,0 +1,125 @@
+2026-11-05 12:15:17 India Standard Time | Stopping: disconnecting Mullvad VPN as requested.
+2026-11-05 12:16:14 India Standard Time | Stopping: disconnecting Mullvad VPN as requested.
+2026-11-05 12:17:14 India Standard Time | Stopping: disconnecting Mullvad VPN as requested.
+2026-11-05 12:18:27 India Standard Time | Loaded 208 active USA WireGuard servers.
+2026-11-05 12:18:27 India Standard Time | Rotation interval: 300 seconds.
+2026-11-05 12:18:27 India Standard Time | Switching to USA relay: us-phx-wg-202
+2026-11-05 12:18:37 India Standard Time | Connected | Relay: us-phx-wg-202 | IP: 23.234.88.171
+2026-11-05 12:18:37 India Standard Time | Status: Connected |     Relay:                  us-phx-wg-202 |     Features:               Quantum Resistance |     Visible location:       USA, Phoenix, AZ. IPv4: 23.234.88.171
+2026-11-05 12:18:37 India Standard Time | Waiting 300 seconds before next switch.
+2026-11-05 12:23:37 India Standard Time | Switching to USA relay: us-sjc-wg-003
+2026-11-05 12:24:26 India Standard Time | Stopping: disconnecting Mullvad VPN as requested.
+2026-11-05 12:29:20 India Standard Time | Loaded 208 active USA WireGuard servers.
+2026-11-05 12:29:20 India Standard Time | Rotation interval: 300 seconds.
+2026-11-05 12:29:20 India Standard Time | Switching to USA relay: us-lax-wg-402
+2026-11-05 12:29:27 India Standard Time | Connected | Relay: us-lax-wg-402 | IP: 146.70.173.214
+2026-11-05 12:29:27 India Standard Time | Status: Connected |     Relay:                  us-lax-wg-402 |     Features:               Quantum Resistance |     Visible location:       USA, Los Angeles, CA
+2026-11-05 12:29:27 India Standard Time | Waiting 300 seconds before next switch.
+2026-11-05 12:34:27 India Standard Time | Switching to USA relay: us-sea-wg-002
+2026-11-05 12:34:35 India Standard Time | Connected | Relay: us-sea-wg-002 | IP: 138.199.43.84
+2026-11-05 12:34:35 India Standard Time | Status: Connected |     Relay:                  us-sea-wg-002 |     Features:               Quantum Resistance |     Visible location:       USA, Seattle, WA
+2026-11-05 12:34:35 India Standard Time | Waiting 300 seconds before next switch.
+2026-11-05 12:39:35 India Standard Time | Switching to USA relay: us-sjc-wg-401
+2026-11-05 12:40:23 India Standard Time | Stopping: disconnecting Mullvad VPN as requested.
+2026-11-05 12:41:43 India Standard Time | Loaded 208 active USA WireGuard servers.
+2026-11-05 12:41:43 India Standard Time | Rotation interval: 300 seconds.
+2026-11-05 12:41:43 India Standard Time | Switching to USA relay: us-mkc-wg-005
+2026-11-05 12:42:31 India Standard Time | Stopping: disconnecting Mullvad VPN as requested.
+2026-11-05 12:43:41 India Standard Time | Loaded 208 active USA WireGuard servers.
+2026-11-05 12:43:41 India Standard Time | Rotation interval: 300 seconds.
+2026-11-05 12:43:41 India Standard Time | Switching to USA relay: us-chi-wg-316
+2026-11-05 12:43:54 India Standard Time | Connected | Relay: us-chi-wg-316 | IP: 173.249.255.194
+2026-11-05 12:43:54 India Standard Time | Status: Connected |     Relay:                  us-chi-wg-316 |     Features:               Quantum Resistance |     Visible location:       USA, Chicago, IL
+2026-11-05 12:43:54 India Standard Time | Waiting 300 seconds before next switch.
+2026-11-05 12:48:54 India Standard Time | Switching to USA relay: us-sea-wg-402
+2026-11-05 12:49:01 India Standard Time | Connected | Relay: us-sea-wg-402 | IP: 23.234.80.229
+2026-11-05 12:49:01 India Standard Time | Status: Connected |     Relay:                  us-sea-wg-402 |     Features:               Quantum Resistance |     Visible location:       USA, Seattle, WA
+2026-11-05 12:49:01 India Standard Time | Waiting 300 seconds before next switch.
+2026-11-05 12:54:01 India Standard Time | Switching to USA relay: us-atl-wg-002
+2026-11-05 12:54:08 India Standard Time | Connected | Relay: us-atl-wg-002 | IP: 45.134.140.145
+2026-11-05 12:54:08 India Standard Time | Status: Connected |     Relay:                  us-atl-wg-002 |     Features:               Quantum Resistance |     Visible location:       USA, Atlanta, GA
+2026-11-05 12:54:08 India Standard Time | Waiting 300 seconds before next switch.
+2026-11-05 12:59:08 India Standard Time | Switching to USA relay: us-nyc-wg-003
+2026-11-05 12:59:15 India Standard Time | Connected | Relay: us-nyc-wg-003 | IP: 23.162.8.175
+2026-11-05 12:59:15 India Standard Time | Status: Connected |     Relay:                  us-nyc-wg-003 |     Features:               Quantum Resistance |     Visible location:       USA, New York, NY
+2026-11-05 12:59:15 India Standard Time | Waiting 300 seconds before next switch.
+2026-11-05 13:04:15 India Standard Time | Switching to USA relay: us-den-wg-207
+2026-11-05 13:04:22 India Standard Time | Connected | Relay: us-den-wg-207 | IP: 23.234.71.53
+2026-11-05 13:04:22 India Standard Time | Status: Connected |     Relay:                  us-den-wg-207 |     Features:               Quantum Resistance |     Visible location:       USA, Denver, CO
+2026-11-05 13:04:22 India Standard Time | Waiting 300 seconds before next switch.
+2026-11-05 13:09:22 India Standard Time | Switching to USA relay: us-den-wg-101
+2026-11-05 13:09:34 India Standard Time | Connected | Relay: us-den-wg-101 | IP: 37.19.210.7
+2026-11-05 13:09:34 India Standard Time | Status: Connected |     Relay:                  us-den-wg-101 |     Features:               Quantum Resistance |     Visible location:       USA, Denver, CO. IPv4: 37.19.210.7
+2026-11-05 13:09:34 India Standard Time | Waiting 300 seconds before next switch.
+2026-11-05 13:14:34 India Standard Time | Switching to USA relay: us-dal-wg-701
+2026-11-05 13:14:45 India Standard Time | Connected | Relay: us-dal-wg-701 | IP: 23.234.104.89
+2026-11-05 13:14:45 India Standard Time | Status: Connected |     Relay:                  us-dal-wg-701 |     Features:               Quantum Resistance |     Visible location:       USA, Dallas, TX
+2026-11-05 13:14:45 India Standard Time | Waiting 300 seconds before next switch.
+2026-11-05 13:19:45 India Standard Time | Switching to USA relay: us-den-wg-203
+2026-11-05 13:19:52 India Standard Time | Connected | Relay: us-den-wg-203 | IP: 23.234.69.113
+2026-11-05 13:19:52 India Standard Time | Status: Connected |     Relay:                  us-den-wg-203 |     Features:               Quantum Resistance |     Visible location:       USA, Denver, CO
+2026-11-05 13:19:52 India Standard Time | Waiting 300 seconds before next switch.
+2026-11-05 13:20:11 India Standard Time | Stopping: disconnecting Mullvad VPN as requested.
+2026-11-05 13:39:27 India Standard Time | Loaded 208 active USA WireGuard servers.
+2026-11-05 13:39:27 India Standard Time | Rotation interval: 300 seconds.
+2026-11-05 13:39:27 India Standard Time | Switching to USA relay: us-nyc-wg-606
+2026-11-05 13:39:36 India Standard Time | Connected | Relay: us-nyc-wg-606 | IP: 146.70.168.253
+2026-11-05 13:39:36 India Standard Time | Status: Connected |     Relay:                  us-nyc-wg-606 |     Features:               Quantum Resistance |     Visible location:       USA, New York, NY
+2026-11-05 13:39:36 India Standard Time | Waiting 300 seconds before next switch.
+2026-11-05 13:44:36 India Standard Time | Switching to USA relay: us-mkc-wg-001
+2026-11-05 13:44:43 India Standard Time | Connected | Relay: us-mkc-wg-001 | IP: 23.234.116.25
+2026-11-05 13:44:43 India Standard Time | Status: Connected |     Relay:                  us-mkc-wg-001 |     Features:               Quantum Resistance |     Visible location:       USA, Kansas City, MO
+2026-11-05 13:44:43 India Standard Time | Waiting 300 seconds before next switch.
+2026-11-05 13:49:43 India Standard Time | Switching to USA relay: us-nyc-wg-302
+2026-11-05 13:49:53 India Standard Time | Connected | Relay: us-nyc-wg-302 | IP: 143.244.47.87
+2026-11-05 13:49:53 India Standard Time | Status: Connected |     Relay:                  us-nyc-wg-302 |     Features:               Quantum Resistance |     Visible location:       USA, New York, NY. IPv4: 143.244.47.87
+2026-11-05 13:49:53 India Standard Time | Waiting 300 seconds before next switch.
+2026-11-05 14:13:50 India Standard Time | Switching to USA relay: us-nyc-wg-506
+2026-11-05 14:13:58 India Standard Time | Connected | Relay: us-nyc-wg-506 | IP: 146.70.165.93
+2026-11-05 14:13:58 India Standard Time | Status: Connected |     Relay:                  us-nyc-wg-506 |     Features:               Quantum Resistance |     Visible location:       USA, New York, NY
+2026-11-05 14:13:58 India Standard Time | Waiting 300 seconds before next switch.
+2026-11-05 14:18:58 India Standard Time | Switching to USA relay: us-dal-wg-603
+2026-11-05 14:19:04 India Standard Time | Connected | Relay: us-dal-wg-603 | IP: 103.102.247.80
+2026-11-05 14:19:04 India Standard Time | Status: Connected |     Relay:                  us-dal-wg-603 |     Features:               Quantum Resistance |     Visible location:       USA, Dallas, TX
+2026-11-05 14:19:04 India Standard Time | Waiting 300 seconds before next switch.
+2026-11-05 14:30:49 India Standard Time | Switching to USA relay: us-den-wg-208
+2026-11-05 14:30:56 India Standard Time | Connected | Relay: us-den-wg-208 | IP: 23.234.71.229
+2026-11-05 14:30:56 India Standard Time | Status: Connected |     Relay:                  us-den-wg-208 |     Features:               Quantum Resistance |     Visible location:       USA, Denver, CO
+2026-11-05 14:30:56 India Standard Time | Waiting 300 seconds before next switch.
+2026-11-05 14:35:56 India Standard Time | Switching to USA relay: us-qas-wg-102
+2026-11-05 14:36:27 India Standard Time | Connected | Relay: us-qas-wg-102 | IP: 185.156.46.153
+2026-11-05 14:36:27 India Standard Time | Status: Connected |     Relay:                  us-qas-wg-102 |     Features:               Quantum Resistance, Shadowsocks |     Visible location:       USA, Ashburn, VA
+2026-11-05 14:36:27 India Standard Time | Waiting 300 seconds before next switch.
+2026-11-05 14:41:27 India Standard Time | Switching to USA relay: us-dal-wg-706
+2026-11-05 14:41:34 India Standard Time | Connected | Relay: us-dal-wg-706 | IP: 23.234.106.202
+2026-11-05 14:41:34 India Standard Time | Status: Connected |     Relay:                  us-dal-wg-706 |     Features:               Quantum Resistance |     Visible location:       USA, Dallas, TX
+2026-11-05 14:41:34 India Standard Time | Waiting 300 seconds before next switch.
+2026-11-05 14:46:34 India Standard Time | Switching to USA relay: us-lax-wg-002
+2026-11-05 14:46:41 India Standard Time | Connected | Relay: us-lax-wg-002 | IP: 23.234.72.217
+2026-11-05 14:46:41 India Standard Time | Status: Connected |     Relay:                  us-lax-wg-002 |     Features:               Quantum Resistance |     Visible location:       USA, Los Angeles, CA
+2026-11-05 14:46:41 India Standard Time | Waiting 300 seconds before next switch.
+2026-11-05 14:51:41 India Standard Time | Switching to USA relay: us-dal-wg-601
+2026-11-05 14:51:48 India Standard Time | Connected | Relay: us-dal-wg-601 | IP: 103.102.246.42
+2026-11-05 14:51:48 India Standard Time | Status: Connected |     Relay:                  us-dal-wg-601 |     Features:               Quantum Resistance |     Visible location:       USA, Dallas, TX
+2026-11-05 14:51:48 India Standard Time | Waiting 300 seconds before next switch.
+2026-11-05 14:56:48 India Standard Time | Switching to USA relay: us-lax-wg-007
+2026-11-05 14:56:55 India Standard Time | Connected | Relay: us-lax-wg-007 | IP: 23.234.75.126
+2026-11-05 14:56:55 India Standard Time | Status: Connected |     Relay:                  us-lax-wg-007 |     Features:               Quantum Resistance |     Visible location:       USA, Los Angeles, CA
+2026-11-05 14:56:55 India Standard Time | Waiting 300 seconds before next switch.
+2026-11-05 15:01:55 India Standard Time | Switching to USA relay: us-sjc-wg-508
+2026-11-05 15:02:06 India Standard Time | Connected | Relay: us-sjc-wg-508 | IP: 23.234.95.206
+2026-11-05 15:02:06 India Standard Time | Status: Connected |     Relay:                  us-sjc-wg-508 |     Features:               Quantum Resistance |     Visible location:       USA, San Jose, CA. IPv4: 23.234.95.206
+2026-11-05 15:02:06 India Standard Time | Waiting 300 seconds before next switch.
+2026-11-05 15:07:06 India Standard Time | Switching to USA relay: us-atl-wg-408
+2026-11-05 15:07:13 India Standard Time | Connected | Relay: us-atl-wg-408 | IP: 23.234.111.239
+2026-11-05 15:07:13 India Standard Time | Status: Connected |     Relay:                  us-atl-wg-408 |     Features:               Quantum Resistance |     Visible location:       USA, Atlanta, GA
+2026-11-05 15:07:13 India Standard Time | Waiting 300 seconds before next switch.
+2026-11-05 15:12:13 India Standard Time | Switching to USA relay: us-nyc-wg-602
+2026-11-05 15:12:21 India Standard Time | Connected | Relay: us-nyc-wg-602 | IP: 146.70.168.145
+2026-11-05 15:12:21 India Standard Time | Status: Connected |     Relay:                  us-nyc-wg-602 |     Features:               Quantum Resistance |     Visible location:       USA, New York, NY
+2026-11-05 15:12:21 India Standard Time | Waiting 300 seconds before next switch.
+2026-11-05 15:17:21 India Standard Time | Switching to USA relay: us-sea-wg-403
+2026-11-05 15:17:30 India Standard Time | Connected | Relay: us-sea-wg-403 | IP: 23.234.81.104
+2026-11-05 15:17:30 India Standard Time | Status: Connected |     Relay:                  us-sea-wg-403 |     Features:               Quantum Resistance |     Visible location:       USA, Seattle, WA
+2026-11-05 15:17:30 India Standard Time | Waiting 300 seconds before next switch.
+2026-11-05 15:18:13 India Standard Time | Stopping: disconnecting Mullvad VPN as requested.
